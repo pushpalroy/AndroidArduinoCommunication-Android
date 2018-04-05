@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AndArduinoComm</string>
+    <string name="guidelines">Make sure to turn on Bluetooth of device and pair with the HC-05 Bluetooth module connected to the Arduino.</string>
+    <string name="header">ANDROID AND ARDUINO BLUETOOTH COMMUNICATION</string>
+    <string name="light">LIGHT</string>
+</resources>
